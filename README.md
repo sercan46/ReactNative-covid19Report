@@ -1,4 +1,9 @@
-# ReactNative-covid19Report
+# Covid 19 Report
 
-## Projenin AmacıD
-React Native kullanarak geliştirmiş olduğum proje. Dünya sağlık örgütünün covid 19 api'si kullanarak geliştirdiğim projem. Dünyadaki tüm ülkelerde covid 19'dan ölen veya kurtulan gibi sayıların alındığı raporlama uygulaması
+My project that I developed using the covid 19 api of the world health organization. Reporting application where numbers such as those who died or survived from covid 19 in all countries in the world.
+
+## To start the project
+
+npm install
+
+react-native run-android || react-native run-ios
